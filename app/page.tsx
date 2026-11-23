@@ -66,7 +66,7 @@ export default function Home() {
 
         {/* =====================================
             1-3. 프로필 사진
-            수정 위치: public/profile.jpg
+            수정 위치: public/profile.JPG
             사진 크기: maxWidth
             사진 비율: aspectRatio
         ===================================== */}
@@ -90,7 +90,7 @@ export default function Home() {
             }}
           >
             <img
-              src="/profile.jpg"
+              src="/profile.JPG"
               alt="이동민 프로필 사진"
               style={{
                 width: '100%',
